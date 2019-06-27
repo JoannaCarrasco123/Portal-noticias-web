@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+        <meta charset=utf-8">
+      <META HTTP-EQUIV= "Content-Type"CONTENT="text/html;charset= ISO-8859-1">
+	<title>La música fusión</title>
+	<link rel ="stylesheet" href="css/style.css">
+</head>
+
+<body>
+	<div id="contenedor">
+        <div id="particles-js"></div>
+		<header>
+<section id="header"> <img src="IMG/BANNER2.jpg" width= "960" height="150"></section>
+		</header>
+		<nav>
+<section id="nav1"><a href="own_vinc1.html">Origen de la música fusión en Lima</a> <width="318" height="58"></section>
+<section id="nav2"><a href="own_vinc2.html">Difusión y apogeo</a> <width="318" height="58"></section>
+<section id="nav3"><a href="own_vinc3.html">Actualidad</a> <width="318" height="58"></section>
+		</nav>
+<section id="contenido">
+<article>
+
+<h2> Conceptualización del género:</h2> <br>
+
+<p>
+</article>
+		</section> 
+
+
+		<aside> 
+<section id="aside1"> <img src="IMG/aside_index1.jpg" width= "250" height="160"></section>
+<section id="aside2"> <img src="IMG/aside_index2.jpg" width= "250" height="160"></section>
+<section id="aside3"> <img src="IMG/aside_index3.jpg" width= "250" height="160"></section>
+		</aside>
+	                </section>
+		<footer> 
+<p>   Contáctenos:</p>
+<p>   informados.pe@gmail.com</p>
+</footer>
+	</div>
+
+	<script src="particles.js"> </script>
+	<script src="particulas.js"> </script>
+
+</body>
+</html>

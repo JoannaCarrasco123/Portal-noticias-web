@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+        <meta charset=utf-8">
+      <META HTTP-EQUIV= "Content-Type"CONTENT="text/html;charset= ISO-8859-1">
+	<title>Actualidad</title>
+	<link rel ="stylesheet" href="css3/style.css">
+</head>
+
+<body>
+	<div id="contenedor">
+        <div id="particles-js"></div>
+		<header>
+<section id="header"> <a href="own_index.html"><img src="IMG3/logo.jpg" width= "960" height="150"></a></section>
+		</header>
+		<nav>
+<section id="nav1"><a href="own_vinc1.html">Origen de la música fusión en Lima</a> <width="478" height="58"></section>
+<section id="nav2"><a href="own_vinc2.html">Difusión y apogeo</a> <width="478" height="58"></section>
+		</nav>
+<section id="contenido">
+<article>
+
+<h2> Actualidad del género:</h2> <br>
+<p>Gaaaaaaaaaa</p> <br>
+</article>
+		</section> 
+
+
+		<aside> 
+<section id="aside1"> <img src="IMG3/aside_vinc3_1.jpg" width= "250" height="160"></section>
+<section id="aside2"> <img src="IMG3/aside_vinc3_2.jpg" width= "250" height="160"></section>
+<section id="aside3"> <img src="IMG3/aside_vinc3_3.jpg" width= "250" height="160"></section>
+		</aside>
+
+		<main> 
+		</main>
+	                </section>
+		<footer> 
+<p>   Contáctenos:</p>
+<p>   E-mail: srovillo@bausate.edu.pe</p>
+</footer>
+
+	</div>
+
+	<script src="particles.js"> </script>
+	<script src="particulas.js"> </script>
+
+</body>
+</html>
